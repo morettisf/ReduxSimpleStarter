@@ -5,3 +5,7 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+redux-app-flow.md
+reduxsimplestarter.sublime-project
+reduxsimplestarter.sublime-workspace
